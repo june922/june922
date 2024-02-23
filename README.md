@@ -1,6 +1,7 @@
 - 👋 Hi, I’m june
 - 👀 I’m interested in sotware engineering
-- 🌱 I’m currently learning HTML CSS Javascript
+- 🌱 I’m currently learning Harvad cs50
+- 
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me june.maithya@gmail.com
 - 😄 Pronouns: her/she/hers
