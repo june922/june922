@@ -1,8 +1,7 @@
-- 👋 Hi, I’m june
+- 👋 Hi, I’m june and I'm just a girl.
 - 👀 I’m interested in sotware engineering
-- 🌱 I’m currently learning Harvad cs50
-- 
-- 💞️ I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning Harvad cs50 , Mobile APPLICATION,
+- HTML,CSS, JAVASCRIPT,REACT JS ✓
 - 📫 How to reach me june.maithya@gmail.com
 - 😄 Pronouns: her/she/hers
 - ⚡ Fun fact: i am > i was
